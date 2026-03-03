@@ -8,5 +8,9 @@ Live long and posper :vulcan_salute:
 | ---- | ----- | ----- |
 |[ Collors Design Tool Website](https://github.com/thisguyblink/neuralNet) | Bug Testing | Adding Font Library Page |
 |[Vanilla C++ Neural Network](https://github.com/thisguyblink/neuralNet)| Refinement | Improving Backpropogation Workflow |
+|[Youtube Video Downloader](https://github.com/thisguyblink/youtubeDownloaderV2) | Polishing | Adding Docker & Basic UI |
+|[Aura Calcualtor](https://github.com/thisguyblink/AuraCalcuator)| Finished | Adding More Questions |
+|[Flohh Note App](https://github.com/thisguyblink/notepad)| Finished IOS APP /| Make MacOS Companion App|
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisguyblink&layout=compact&theme=dark)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thisguyblink&theme=github-dark)
