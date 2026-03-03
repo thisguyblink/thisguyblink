@@ -5,5 +5,7 @@ Live long and posper :vulcan_salute:
 ## Projects I am currently working on!
 
 | Project | Status | Next Feature |
-|[Vanilla C++ Neural Network](https://github.com/thisguyblink/neuralNet)| Refinement | Backpropogation Workflow |
+| ---- | ----- | ----- |
+|[ Collors Design Tool Website](https://github.com/thisguyblink/neuralNet) | Bug Testing | Adding Font Library Page |
+|[Vanilla C++ Neural Network](https://github.com/thisguyblink/neuralNet)| Refinement | Improving Backpropogation Workflow |
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thisguyblink&theme=github-dark)
