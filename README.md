@@ -12,4 +12,3 @@ Live long and posper :vulcan_salute:
 |[Vanilla C++ Neural Network](https://github.com/thisguyblink/neuralNet)| Refinement | Improving Backpropogation Workflow |
 |[Youtube Video Downloader](https://github.com/thisguyblink/youtubeDownloaderV2) | Polishing | Adding Docker & Basic UI |
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thisguyblink&theme=github-dark)
