@@ -16,5 +16,5 @@ Live long and prosper :vulcan_salute:
 |[Aura Calculator](https://github.com/thisguyblink/AuraCalculator)| Finished | Adding More Questions |
 |[Collors Design Tool Website](https://github.com/thisguyblink/collors) | Bug Testing | Adding Font Library Page |
 |[Vanilla C++ Neural Network](https://github.com/thisguyblink/neuralNet)| Refinement | Improving Backpropagation Workflow |
-|[Rocky Inter-Language Communication Scaffolding](https://github.com/thisguyblink/rocky) | In-Progress | Adding More Language Support |
+
 
